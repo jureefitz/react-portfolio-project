@@ -3,9 +3,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      hello from react
-    
-  
+     <footer>
+      This project was coded by Juree Fitzgerald and is {" "}
+      <a href="" target="_blank" rel="noreferrer">open-sourced on GitHub</a>
+     </footer>
     </div>
   );
 }
