@@ -1,0 +1,9 @@
+.Projects {
+    margin-top: 40px;
+    padding-bottom: 20px;
+}
+
+.Projects .card {
+    background-color: #6C757D;
+    color: #fff;
+}

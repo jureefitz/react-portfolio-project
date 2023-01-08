@@ -1,0 +1,18 @@
+.Navigation {
+    color: #ffc106;
+    background-color: #6C757D;
+    padding: 20px;
+    border: 3px solid #6C757D;
+    border-radius: 20px;
+    
+}
+
+.Navigation ul {
+    padding: 0;
+}
+
+.Navigation li {
+    color: #ffc106;
+    list-style: none;
+    text-align: center;
+}

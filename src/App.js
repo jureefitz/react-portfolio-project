@@ -10,7 +10,7 @@ function App() {
      </div>
     </div>
     <small>
-      This project was coded by Juree Fitzgerald and is {" "}
+      This page was coded by Juree Fitzgerald and is {" "}
       <a href="https://github.com/jureefitz/react-portfolio-project" target="_blank" rel="noreferrer">open-sourced on GitHub</a>
      </small>
   </div>
