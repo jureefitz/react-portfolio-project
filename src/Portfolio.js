@@ -18,7 +18,7 @@ return(
       </span>
     </h2>
     <h3>Welcome to my <span class="badge bg-secondary">
-      Portfolio of Projects!
+      projects Portfolio!
       </span>
     </h3>  
   <Projects />
