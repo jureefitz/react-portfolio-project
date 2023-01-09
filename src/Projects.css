@@ -7,3 +7,7 @@
     background-color: #6C757D;
     color: #fff;
 }
+
+.Projects .btn {
+    box-shadow: 2px 3px 5px #000;
+}

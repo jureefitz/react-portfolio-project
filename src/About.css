@@ -19,5 +19,16 @@
 
 .Navigation li .underline {
     text-decoration: underline;
+    text-decoration-color: #788CB6;
+    text-decoration-thickness: 3px;
     font-weight: 800;
+}
+
+.Navigation .connect-link {
+    color: #ffc106;
+}
+
+.Navigation .connect-link:hover {
+    color: #fff;
+    transition: all 200ms ease-in-out;
 }

@@ -1,6 +1,7 @@
 .App {
   margin: 50px auto;
   max-width: 85%;
+  font-family: 'Finger Paint', cursive;
 }
 
 .App .appborder {

@@ -6,39 +6,46 @@ export default function Navigation() {
       <div className="Navigation">
       <ul class="row">  
        <li class="col">
-        <span className="underline">About</span>
-          <p>Hello!</p>
+        <span className="underline">About Me</span>
+          <p className="About">Hello! 
+          </p>
         </li>
       
-      <li class="col">
-        <span className="underline">Skills</span>
+      <li class="col skills">
+        <span className="underline ">Skills</span>
          <li>
-          JavaScript
+          API
          </li>
            <li>
-           React.js
+           CSS3
          </li>
-            <li>
-            HTML5
+           <li>
+           HTML5
           </li>
           <li>
-            CSS3
+           GitHub 
+         </li>
+         <li>
+           Hosting
          </li>
           <li>
-            API
+           React.js
          </li>
          <li>
            Bootstrap
          </li>
          <li>
-            GitHub
+           JavaScript  
          </li>
         </li>
         
         <li class="col">
           <span className="underline">Connect</span>
-         <li className="connect">
-          hello!
+         <li>
+          <a href="https://github.com/jureefitz" className="connect-link" target="_blank" rel="noopener noreferrer">GitHub</a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/in/juree-f-767338199/" className="connect-link" target="_blank" rel="noopener noreferrer">LinkedIn</a>
          </li>
       </li> 
      </ul>
