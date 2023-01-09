@@ -16,3 +16,8 @@
     list-style: none;
     text-align: center;
 }
+
+.Navigation li .underline {
+    text-decoration: underline;
+    font-weight: 800;
+}
