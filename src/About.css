@@ -1,4 +1,4 @@
-.Navigation {
+.About {
     color: #ffc106;
     background-color: #6C757D;
     padding: 20px;
@@ -7,28 +7,28 @@
     
 }
 
-.Navigation ul {
+.About ul {
     padding: 0;
 }
 
-.Navigation li {
+.About li {
     color: #ffc106;
     list-style: none;
     text-align: center;
 }
 
-.Navigation li .underline {
+.About li .underline {
     text-decoration: underline;
     text-decoration-color: #788CB6;
     text-decoration-thickness: 3px;
     font-weight: 800;
 }
 
-.Navigation .connect-link {
+.About .connect-link {
     color: #ffc106;
 }
 
-.Navigation .connect-link:hover {
+.About .connect-link:hover {
     color: #fff;
     transition: all 200ms ease-in-out;
 }

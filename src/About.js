@@ -1,9 +1,9 @@
 import React from "react";
 import "./About.css"
 
-export default function Navigation() {
+export default function About() {
     return (
-      <div className="Navigation">
+      <div className="About">
       <ul class="row">  
        <li class="col">
         <span className="underline">About Me</span>
