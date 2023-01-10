@@ -7,7 +7,9 @@ export default function Navigation() {
       <ul class="row">  
        <li class="col">
         <span className="underline">About Me</span>
-          <p className="About">Hello! 
+          <p className="About">Hello! My name is Juree, and I'm currently a student at SheCodes Workshop for women! I have compelety fallen in love with web development and with more practice, I am improving my skills each and everyday. <br />
+          I've been intrigued about coding since before I truly understood what it was; I just knew I was extremely interested in how someone could build an entire website from scrath! <br />
+          I'm so excited and passionate about continuing my journey progressing my skills to become a better web developer! 
           </p>
         </li>
       
