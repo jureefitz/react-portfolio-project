@@ -17,6 +17,10 @@
     text-align: center;
 }
 
+.About p {
+    padding-top: 0;
+}
+
 .About li .underline {
     text-decoration: underline;
     text-decoration-color: #788CB6;
