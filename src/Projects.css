@@ -6,6 +6,7 @@
 .Projects .card {
     background-color: #6C757D;
     color: #fff;
+    margin-top: 10px;
 }
 
 .Projects .btn {
